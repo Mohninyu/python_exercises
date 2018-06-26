@@ -1,10 +1,10 @@
-tabby_dog = "\tI'm tabbed in."
-persion_dog = "I'm split\non a line."
-backslash_dog = "I'm \\ a \\ cat."
+tabby_rat = "\tI'm tabbed in."
+persion_rat = "I'm split\non a line."
+backslash_rat = "I'm \\ a \\ rat."
 
-fat_dog = """ I'll do a list: \t* Cat food \t* Fishies \t* Catnip\n\t* Grass"""
+fat_rat = """ I'll do a list: \t* Rat food \t* Fishies \t* Catnip\n\t* Grass"""
 
-print(tabby_dog)
-print(persion_dog)
-print(backslash_dog)
-print(fat_dog)
+print(tabby_rat)
+print(persion_rat)
+print(backslash_rat)
+print(fat_rat)
